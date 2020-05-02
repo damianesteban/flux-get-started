@@ -59,7 +59,7 @@ spec:
           - name: PODINFO_UI_COLOR
             value: "#FF7D00"
           - name: PODINFO_UI_MESSAGE
-            value: "Welcome to Flux, Yo."
+            value: "Welcome to Flux, Yo Bitch."
         livenessProbe:
           httpGet:
             path: /healthz
