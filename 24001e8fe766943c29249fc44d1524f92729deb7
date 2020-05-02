@@ -1,0 +1,1 @@
+{"jobID":"e7cb16fc-ff18-026c-91ec-32b683e3d2e0","spec":{"type":"policy","cause":{"Message":"","User":"Damian Esteban \u003cdamian.esteban@gmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:1.4.*"},"remove":{}}}},"result":null}
